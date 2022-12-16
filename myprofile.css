@@ -1,0 +1,15 @@
+#grid-col {
+  display: grid;
+
+  grid-template-columns: auto auto auto;
+}
+
+div.cell {
+  background: pink;
+  border: 1px solid Blue;
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+}
